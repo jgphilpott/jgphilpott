@@ -1,4 +1,4 @@
-<p align="center"><img width="480" height="300" src="https://github.com/jgphilpott/jgphilpott/blob/main/workflow.gif"></p>
+<p align="center"><img width="640" height="400" src="https://github.com/jgphilpott/jgphilpott/blob/main/workflow.gif"></p>
 
 ### Me across the web:
 
