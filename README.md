@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="854" height="382" src="https://github.com/jgphilpott/jgphilpott/blob/main/flow.png">
-</p>
+<p align="center"><img width="854" height="382" src="https://github.com/jgphilpott/jgphilpott/blob/main/workflow.png"></p>
 
 ### Me across the web:
 
