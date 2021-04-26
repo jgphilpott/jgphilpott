@@ -1,3 +1,3 @@
-<p align="center">
-  <img width="427" height="230" src="https://github.com/jgphilpott/jgphilpott/blob/main/rabbit%26fox.jpg">
+<p align="right">
+  <img width="227" height="190" src="https://github.com/jgphilpott/jgphilpott/blob/main/compass.png">
 </p>
