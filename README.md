@@ -1,14 +1,13 @@
-# Me across the web:
+### Me across the web:
 
-## DevOps
+**DevOps**
 
- - Stack
- - Hit
+Stack - Git
 
-## Social
+**Social**
 
- - Facebook
+Facebook
 
-## 3D Printing
+**3D Printing**
 
- - Thing
+Thing
