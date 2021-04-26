@@ -1,5 +1,14 @@
-Oaky
+# Me across the web:
 
-<p align="right">
-  <img width="227" height="190" src="https://github.com/jgphilpott/jgphilpott/blob/main/compass.png">
-</p>
+## DevOps
+
+ - Stack
+ - Hit
+
+## Social
+
+ - Facebook
+
+## 3D Printing
+
+ - Thing
