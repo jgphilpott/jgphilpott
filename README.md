@@ -13,3 +13,5 @@
 **3D Printing**
 
 [Thingiverse](https://www.thingiverse.com/jgphilpott) ~ + ~ [Pinshape](https://pinshape.com/users/964002) ~ + ~ [MyMiniFactory](https://www.myminifactory.com/users/jgphilpott) ~ + ~ [GrabCAD](https://grabcad.com/jacob.philpott-1) ~ + ~ [YouMagine](https://www.youmagine.com/jgphilpott) ~ + ~ [Cults](https://cults3d.com/en/users/jacobphilpott)
+
+## Favourite Repositories
