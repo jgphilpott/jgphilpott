@@ -1,3 +1,3 @@
-<p align="right">
-  <img width="227" height="190" src="https://github.com/jgphilpott/jgphilpott/blob/main/compass.png">
+<p align="center">
+  <img width="854" height="200" src="https://github.com/jgphilpott/jgphilpott/blob/main/comp-ban.png">
 </p>
