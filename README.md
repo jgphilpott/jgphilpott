@@ -1,17 +1,1 @@
-<p align="center"><img width="640" height="400" src="https://github.com/jgphilpott/jgphilpott/blob/main/workflow.gif"></p>
-
-### Me across the web:
-
-**DevOps**
-
-[GitHub](https://github.com/jgphilpott) ~ + ~ [Stack Overflow](https://stackoverflow.com/users/1544937/jacob-philpott) ~ + ~ [Docker Hub](https://hub.docker.com/u/jgphilpott)
-
-**Social**
-
-[LinkedIn](https://www.linkedin.com/in/jgphilpott) ~ + ~ [Facebook](https://www.facebook.com/jgphilpott) ~ + ~ [Twitter](https://twitter.com/__jgphilpott__) ~ + ~ [YouTube](https://www.youtube.com/channel/UCwU-tFbVQ_ngKaacRzwQd8A) ~ + ~ [Minds](https://www.minds.com/jgphilpott)
-
-**3D Printing**
-
-[Thingiverse](https://www.thingiverse.com/jgphilpott) ~ + ~ [Pinshape](https://pinshape.com/users/964002) ~ + ~ [MyMiniFactory](https://www.myminifactory.com/users/jgphilpott) ~ + ~ [GrabCAD](https://grabcad.com/jacob.philpott-1) ~ + ~ [YouMagine](https://www.youmagine.com/jgphilpott) ~ + ~ [Cults](https://cults3d.com/en/users/jacobphilpott)
-
-<br><h1 align="center">Favourite Repositories</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=ture)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&layout=compact&langs_count=10&&hide=G-code&hide_border=ture)](https://github.com/anuraghazra/github-readme-stats)
