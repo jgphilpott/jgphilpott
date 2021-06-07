@@ -1,4 +1,16 @@
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&&hide=G-code&hide_border=ture">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&&hide=G-code&hide_border=ture">](https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile)
+
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jgphilpott"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50" height="50"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/jgphilpott"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" width="50" height="50"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/__jgphilpott__"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="50" height="50"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCwU-tFbVQ_ngKaacRzwQd8A"><img src="https://image.flaticon.com/icons/png/512/174/174883.png" width="50" height="50"></a>
+&nbsp;&nbsp;&nbsp;
+
 [<img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=ture">](https://github.com/anuraghazra/github-readme-stats)
 [<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
-[<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jgphilpott&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&custom_title=Last%20Months%20Activity&hide_border=true">](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jgphilpott&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&custom_title=Past%20Months%20Activity&hide_border=true">](https://github.com/Ashutosh00710/github-readme-activity-graph)
