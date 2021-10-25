@@ -1,4 +1,4 @@
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&&hide=G-code&hide_border=ture">](https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile)
+[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&&hide=G-code&hide_border=ture">](https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile)
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jgphilpott"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="42" height="42"></a>
