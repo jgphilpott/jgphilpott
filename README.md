@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCwU-tFbVQ_ngKaacRzwQd8A"><img src="https://image.flaticon.com/icons/png/512/174/174883.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=ture">](https://github.com/anuraghazra/github-readme-stats)
 [<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=ture">](https://github.com/anuraghazra/github-readme-stats)
 
 [<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/Ashutosh00710/github-readme-activity-graph)
