@@ -35,17 +35,17 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/jgphilpott/github-readme-streak-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
-    </picture>
-</a>
-
 <a href="https://github.com/jgphilpott/github-readme-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+    </picture>
+</a>
+
+<a href="https://github.com/jgphilpott/github-readme-streak-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
     </picture>
 </a>
 
