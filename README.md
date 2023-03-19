@@ -1,4 +1,7 @@
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&exclude_repo=babel&hide=G-code&hide_border=true">](https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile)
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&exclude_repo=babel&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&exclude_repo=babel&hide=G-code&hide_border=true">
+</picture>](https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile)
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jgphilpott"><img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/linkedin.png" width="42" height="42"></a>
@@ -10,6 +13,17 @@
 <a href="https://www.youtube.com/channel/UCwU-tFbVQ_ngKaacRzwQd8A"><img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/youtube.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 
-[<img align="left" src="https://streak-stats.demolab.com/?user=jgphilpott&hide_border=true">](https://github.com/jgphilpott/github-readme-streak-stats)
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">](https://github.com/jgphilpott/github-readme-stats)
-[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/jgphilpott/github-readme-activity-graph)
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
+</picture>](https://github.com/jgphilpott/github-readme-streak-stats)
+
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+</picture>](https://github.com/jgphilpott/github-readme-stats)
+
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+</picture>](https://github.com/jgphilpott/github-readme-activity-graph)
