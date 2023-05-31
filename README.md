@@ -1,7 +1,7 @@
 <a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&exclude_repo=babel,convert&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&exclude_repo=babel,convert&hide=G-code&hide_border=true&layout=donut-vertical">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
     </picture>
 </a>
 
