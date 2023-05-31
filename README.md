@@ -51,7 +51,13 @@
 
 <a href="https://github.com/jgphilpott/github-readme-activity-graph">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
-        <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+
+<h3 align="center">
+    <a href="https://github.com/jgphilpott/jgphilpott/blob/main/stats/README.md">
+        More Stats
+    </a>
+</h3>
