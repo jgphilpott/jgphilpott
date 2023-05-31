@@ -55,3 +55,9 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+
+<h3 align="center">
+    <a href="https://www.githubtrends.io/wrapped/jgphilpott">
+        More Stats
+    </a>
+</h3>
