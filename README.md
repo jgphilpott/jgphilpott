@@ -27,7 +27,7 @@
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCwU-tFbVQ_ngKaacRzwQd8A">
+<a href="https://www.youtube.com/@jgphilpott">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/dark/youtube.png">
         <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/light/youtube.png" width="42" height="42">
