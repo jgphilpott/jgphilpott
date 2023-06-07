@@ -8,29 +8,29 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/dark/linkedin.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/light/linkedin.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/linkedin.png">
+        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/linkedin.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/dark/facebook.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/light/facebook.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/facebook.png">
+        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/facebook.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__jgphilpott__">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/dark/twitter.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/light/twitter.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/twitter.png">
+        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/twitter.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/dark/youtube.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/light/youtube.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/youtube.png">
+        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
