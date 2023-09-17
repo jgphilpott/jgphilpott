@@ -10,7 +10,7 @@
 
 <h3 align="left">Bio</h3>
 
-<p align="left">A data_scientist and webDeveloper from <a href="https://www.google.com/maps/place/Toronto">Toronto, Canada</a>.</p>
+<p align="left">A data_scientist and webDeveloper in <a href="https://www.google.com/maps/place/Entebbe">Entebbe, Uganda.</a>.</p>
 
 <h3 align="left">Stats</h3>
 
