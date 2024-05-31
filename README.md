@@ -8,36 +8,36 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/stackoverflow.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/stackoverflow.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/stackoverflow.png">
+        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/stackoverflow.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/linkedin.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/linkedin.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png">
+        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/facebook.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/facebook.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/facebook.png">
+        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/facebook.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__jgphilpott__">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/twitter.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/twitter.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/twitter.png">
+        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/twitter.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@jgphilpott">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/dark/youtube.png">
-        <img src="https://github.com/jgphilpott/jgphilpott/blob/main/imgs/social/light/youtube.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/youtube.png">
+        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
