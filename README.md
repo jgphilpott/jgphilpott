@@ -63,8 +63,8 @@
     </picture>
 </a>-->
 
-<h3 align="center">
+<!---<h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/jgphilpott">
         More Stats
     </a>
-</h3>
+</h3>-->
