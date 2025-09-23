@@ -51,8 +51,8 @@
 
 <a href="https://github.com/jgphilpott/github-readme-streak-stats">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
+        <img align="left" src="https://streak-stats.demolab.com/?user=jgphilpott&hide_border=true">
     </picture>
 </a>
 
