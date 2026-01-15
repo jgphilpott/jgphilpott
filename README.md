@@ -27,13 +27,6 @@
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__jgphilpott__">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/twitter.png">
-        <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/twitter.png" width="42" height="42">
-    </picture>
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@jgphilpott">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/youtube.png">
