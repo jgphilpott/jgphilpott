@@ -49,11 +49,11 @@
     </picture>
 </a>
 
-<a href="https://github.com/jgphilpott/github-readme-activity-graph">
+<!-- <a href="https://github.com/jgphilpott/github-readme-activity-graph">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=010409">
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
-    </picture>
+    </picture> -->
 </a>
 
 <!---<h3 align="center">
